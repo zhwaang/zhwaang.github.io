@@ -74,11 +74,11 @@ analytics:
 author:
   name             : "Zhenhua Wang"
   avatar           : "profile_henley_beach.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : ""
+  email            : "305351190@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #""
   lastfm           :
   pinterest        :
   soundcloud       :

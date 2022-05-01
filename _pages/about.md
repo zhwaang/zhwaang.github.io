@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome | Zhenhua Wang's Homepage"
+title: "Welcome to Zhenhua Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

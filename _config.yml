@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenhua Wang / Site Title"
+title                    : "Zhenhua Wang"
 title_separator          : "-"
 name                     : &name "Zhenhua Wang"
 description              : &description "personal description"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in computer vision, statistical machine learning and their broad applications.
+I am interested in computer vision, statistical machine learning and their broad applications. More details coming soon.

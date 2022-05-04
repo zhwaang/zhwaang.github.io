@@ -1,7 +1,6 @@
 ---
 title: "Consistency-Aware Graph Network for Human Interaction Understanding"
 collection: publications
-permalink: /publication/iccv21_cagnet
 excerpt: '[code](https://git.io/CAGNet)'
 date: 2021-10-11
 venue: 'ICCV'

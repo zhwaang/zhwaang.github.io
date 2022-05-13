@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "王振华（Zhenhua Wang）"
 title_separator          : "-"
-name                     : &name "王振华（Zhenhua Wang）"
+name                     : &name "王振华"
 description              : &description "personal description"
 url                      : https://zhwaang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
